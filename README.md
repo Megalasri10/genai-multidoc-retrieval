@@ -341,10 +341,12 @@ await ask_question(
 ### OUTPUT:
 
 
+<img width="1206" height="195" alt="Screenshot 2026-11-24 221628" src="https://github.com/user-attachments/assets/b756ce98-2a96-44a3-ba40-339b181892d5" />
+
+<img width="1325" height="832" alt="Screenshot 2026-11-24 221607" src="https://github.com/user-attachments/assets/e2b8d5f3-92eb-47dd-b851-ab999a97d40a" />
 
 
-
-
-
+<img width="1328" height="545" alt="Screenshot 2026-11-24 221541" src="https://github.com/user-attachments/assets/a6576df4-6fda-466d-9c82-dd89323056ac" />
 
 ### RESULT:
+The multidocument retrieval agent was successfully implemented using LlamaIndex. It retrieved relevant information from the research papers and generated concise and relevant responses to different queries. The system demonstrated effective document retrieval and information synthesis.
